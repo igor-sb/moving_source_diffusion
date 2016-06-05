@@ -24,6 +24,8 @@ I simulated the bacteria as a point source that is continuously producing a chem
 
 **COMSOL Multiphysics (3.5) instructions**
 
+These instructions are used to create ``moving_source_diffusion_comsol35.mph`` file. I attached the instructions since it won't work with newer COMSOL versions.
+
 * Create two geometries ('geom's). The first one is the main
 domain where the diffusion is simulated (a square, insulating boundary, diffusion and no
   convection and reaction terms under ``Physics`` / ``Subdomain Settings``) and a second one consisting of a single point.
