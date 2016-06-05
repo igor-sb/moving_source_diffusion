@@ -3,6 +3,8 @@
 _(this was a side project I did during my PhD)_
 
 ![Neutrophil chasing bacteria](https://github.com/igor25/moving_source_diffusion/blob/master/videos/neutrophil_chasing_bacteria.gif)
+![Large molecule diffusion](https://github.com/igor25/moving_source_diffusion/blob/master/videos/neutrophil_chasing_bacteria.gif)
+![Small molecule diffusion](https://github.com/igor25/moving_source_diffusion/blob/master/videos/neutrophil_chasing_bacteria.gif)
 
 Many living cells eat and digest other living cells. One example is shown in the
 video below taken from a 16 mm movie made in 1950s by the late prof. David Rogers
