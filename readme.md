@@ -12,7 +12,7 @@ I was curious what is the best possible accuracy with which cells (such as white
 
 ## Modeling: COMSOL Multiphysics / MATLAB
 
-I simulated the bacteria as a point source that is continuously producing a chemical which is free to diffuse in a rectangular environment with insulating (reflective) boundaries.
+I simulated the bacteria as a point source that is continuously producing a chemical which is free to diffuse in a rectangular environment with periodic boundary conditions.
 
 **MATLAB instructions**
 
